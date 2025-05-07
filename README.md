@@ -32,6 +32,7 @@ Botun fiyat bilgisi ve detaylı bilgi almak için [@vantedev](https://discord.co
 
 
 ## Komut Görüntüleri<details>
+<details>
   <summary>Kurucu Komutları</summary>
 </details>
 
