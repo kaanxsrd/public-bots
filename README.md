@@ -1,6 +1,5 @@
 <h2 align="center">
-  <a href="https://app.vante.dev/" target="_blank">💜 Vante Public Bots</a>
-- V2.0
+  <a href="https://app.vante.dev/" target="_blank">Vante Public Bots</a>
 </h2>
 
 ![image](https://github.com/user-attachments/assets/56cf1c0b-93f2-4c57-9bd7-ec575757be22)
