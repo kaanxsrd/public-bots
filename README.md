@@ -11,10 +11,10 @@ Botun fiyat bilgisi ve detaylı bilgi almak için [@vantedev](https://discord.co
 
 ## Özellikler
 
-- ⚙️ Tamamen Özelleştirilebilir: PostgreSQL gibi endüstri standardı veritabanları ve gelişmiş modüler sistemlerle, botu tam da istediğiniz gibi yapılandırın.
-- 🌟 Web Yönetim Paneli: Kullanıcı dostu arayüz üzerinden tüm bot ayarlarını zahmetsizce düzenleyin ve anlık güncellemeler yapın.
-- 📝 Hızlı ve Kolay Kurulum: Adım adım kurulum rehberimizle, sadece 1 saatte tüm sistemleri eksiksiz kurup çalışır hâle getirin.
-- ⚡ 150+ Komut: 150’den fazla komutla sunucunuzun etkileşimini bir üst seviyeye taşıyın.
+- ⚙️ **Tamamen Özelleştirilebilir**: PostgreSQL gibi endüstri standardı veritabanları ve gelişmiş modüler sistemlerle, botu tam da istediğiniz gibi yapılandırın.
+- 🌟 **Web Yönetim Paneli**: Kullanıcı dostu arayüz üzerinden tüm bot ayarlarını zahmetsizce düzenleyin ve anlık güncellemeler yapın.
+- 📝 **Hızlı ve Kolay Kurulum**: Adım adım kurulum rehberimizle, sadece 1 saatte tüm sistemleri eksiksiz kurup çalışır hâle getirin.
+- ⚡ **150+ Komut**: 150’den fazla komutla sunucunuzun etkileşimini bir üst seviyeye taşıyın.
 
 ## Komut Kategorileri
 
