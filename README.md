@@ -49,7 +49,7 @@ Botun fiyat bilgisi ve detaylı bilgi almak için [@vantedev](https://discord.co
 </details>
 
 <details>
-  <summary>Register (Kayıt) Komutları</summary>
+  <summary>Register Komutları</summary>
 </details>
 
 <details>
