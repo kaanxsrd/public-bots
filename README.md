@@ -18,14 +18,15 @@ Botun fiyat bilgisi ve detaylı bilgi almak için [@vantedev](https://discord.co
 
 ## Komut Kategorileri
 
-| İkon  | Kategori     | Açıklama                                                           |
-|:----:|:-------------|:------------------------------------------------------------------- |
-| 🏗️   | **Kurucu**   | Sunucu altyapısı ve ilk yapılandırma adımları için komutlar.       |
-| 🛡️   | **Yönetim**  | Rol, kanal, izin gibi temel yönetim işlemlerini kolaylaştırır.     |
-| 🛡️   | **Koruma**   | Spam, link ve istenmeyen içerik filtreleme sistemleri.             |
-| 🔨   | **Moderasyon** | Kick/ban/timeout gibi kullanıcı ceza ve uyarı komutları.         |
-| 📝   | **Register** | Üye kaydı, rol dağıtımı ve otomatik karşılama işlemleri.           |
-| 🔑   | **Yetkili**  | Yönetici rolündeki kişiler için özel yetki komutları.              |
-| 📊   | **İstatistik** | Sunucu ve kullanıcı aktiviteleriyle ilgili veri raporları.       |
-| 💰   | **Ekonomi**  | Sanal para, mağaza ve ödül sistemi komutları.                      |
-| 👤   | **Kullanıcı** | Genel kullanıcı işlemleri (profil, avatar, bilgi görüntüleme).    |
+| Kategori     | Açıklama                                                           |
+|:-------------|:-------------------------------------------------------------------|
+| **Kurucu**   | Sunucu altyapısı ve ilk yapılandırma adımları için komutlar.       |
+| **Yönetim**  | Rol, kanal, izin gibi temel yönetim işlemlerini kolaylaştırır.     |
+| **Koruma**   | Spam, link ve istenmeyen içerik filtreleme sistemleri.             |
+| **Moderasyon** | Kick/ban/timeout gibi kullanıcı ceza ve uyarı komutları.         |
+| **Register** | Üye kaydı, rol dağıtımı ve otomatik karşılama işlemleri.           |
+| **Yetkili**  | Yönetici rolündeki kişiler için özel yetki komutları.               |
+| **İstatistik** | Sunucu ve kullanıcı aktiviteleriyle ilgili veri raporları.       |
+| **Ekonomi**  | Sanal para, mağaza ve ödül sistemi komutları.                      |
+| **Kullanıcı** | Genel kullanıcı işlemleri (profil, avatar, bilgi görüntüleme).     |
+
