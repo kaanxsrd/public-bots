@@ -30,3 +30,39 @@ Botun fiyat bilgisi ve detaylı bilgi almak için [@vantedev](https://discord.co
 | **Ekonomi**  | Sanal para, mağaza ve ödül sistemi komutları.                      |
 | **Kullanıcı** | Genel kullanıcı işlemleri (profil, avatar, bilgi görüntüleme).     |
 
+
+## Komut Görüntüleri<details>
+  <summary>Kurucu Komutları</summary>
+</details>
+
+<details>
+  <summary>Yönetim Komutları</summary>
+</details>
+
+<details>
+  <summary>Koruma Komutları</summary>
+</details>
+
+<details>
+  <summary>Moderasyon Komutları</summary>
+</details>
+
+<details>
+  <summary>Register (Kayıt) Komutları</summary>
+</details>
+
+<details>
+  <summary>Yetkili Komutları</summary>
+</details>
+
+<details>
+  <summary>İstatistik Komutları</summary>
+</details>
+
+<details>
+  <summary>Ekonomi Komutları</summary>
+</details>
+
+<details>
+  <summary>Kullanıcı Komutları</summary>
+</details>
