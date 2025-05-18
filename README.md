@@ -31,38 +31,7 @@ Botun fiyat bilgisi ve detaylı bilgi almak için [@vantedev](https://discord.co
 
 
 ## Komut Görüntüleri
-<details>
-  <summary>Kurucu Komutları</summary>
-</details>
 
-<details>
-  <summary>Yönetim Komutları</summary>
-</details>
-
-<details>
-  <summary>Koruma Komutları</summary>
-</details>
-
-<details>
-  <summary>Moderasyon Komutları</summary>
-</details>
-
-<details>
-  <summary>Register Komutları</summary>
-</details>
-
-<details>
-  <summary>Yetkili Komutları</summary>
-</details>
-
-<details>
-  <summary>İstatistik Komutları</summary>
-</details>
-
-<details>
-  <summary>Ekonomi Komutları</summary>
-</details>
-
-<details>
-  <summary>Kullanıcı Komutları</summary>
-</details>
+| Profil Komutu                                                                             | 
+| ----------------------------------------------------------------------------------------- | 
+| ![image](https://github.com/user-attachments/assets/066bb889-11dd-4590-bc08-8d5d5849bdcd) |
