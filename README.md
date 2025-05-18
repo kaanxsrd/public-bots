@@ -30,7 +30,7 @@ Botun fiyat bilgisi ve detaylı bilgi almak için [@vantedev](https://discord.co
 | **Kullanıcı** | Genel kullanıcı işlemleri (profil, avatar, bilgi görüntüleme).     |
 
 
-## Komut Görüntüleri
+## Komut Görüntüleri (Bot yapım aşamasındadır)
 
 | Profil Komutu                                                                             | 
 | ----------------------------------------------------------------------------------------- | 
